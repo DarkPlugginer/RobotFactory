@@ -1,0 +1,14 @@
+#######################################
+# Classes (KEYWORD1)
+#######################################
+Robot	KEYWORD1
+#######################################
+# Metodos (KEYWORD2)
+#######################################
+walk    KEYWORD2
+turn    KEYWORD2
+spin    KEYWORD2
+stop    KEYWORD2
+
+dis_encoder KEYWORD2
+dis_ultrasonic  KEYWORD2
